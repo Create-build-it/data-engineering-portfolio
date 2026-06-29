@@ -49,6 +49,10 @@ data-engineering-project/
 ├── requirements.txt  
 └── flights.csv  
 
+
+
+<img width="684" height="456" alt="image" src="https://github.com/user-attachments/assets/67d71d25-463c-445a-ae5d-c789b4ee48d9" />
+
 ---
 
 ## Datenpipeline
