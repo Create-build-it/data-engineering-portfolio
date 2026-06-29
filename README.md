@@ -36,7 +36,6 @@ Die Datenpipeline basiert auf einer Microservice-Architektur und ist in mehrere 
 
 data-engineering-project/  
 ├── architecture.png <img width="684" height="456" alt="architecture png" src="https://github.com/user-attachments/assets/4467337c-bc7f-41c3-b2ff-24f8aa9080d0" />
-
 ├── ingestion/ 
 │   └── ingest.py  
 ├── processing/  
